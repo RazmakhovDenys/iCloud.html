@@ -17,7 +17,7 @@ p {
 }
 
 .dotteds {
-    left: 1000px;
+    left: 1500px;
     position: absolute;
     width: 20px;
     height: 20px;
@@ -41,13 +41,13 @@ h1 {
     font-size: 100px;
     font-family: Helvetica, sans-serif; 
     position: relative;
-    left: 450px;
+    left: 470px;
     bottom: 100px;
 }
 
 main a {
     position: relative;
-    left: 500px;
+    left: 550px;
     bottom: 118px;
     border-radius: 25px;
     text-decoration: none;
