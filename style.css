@@ -29,6 +29,7 @@ main img {
     position: relative;
     width: 250px;
     height: 250px;
+    left: 500px;
 }
 
 main img:hover {
