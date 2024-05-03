@@ -17,8 +17,7 @@ p {
 }
 
 .dotteds {
-    display: flex;
-    justify-content: end;
+    left: 1200px;
     position: absolute;
     width: 20px;
     height: 20px;
