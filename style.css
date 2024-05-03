@@ -1,1 +1,61 @@
+img {
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+}
 
+body {
+    display: flex;
+}
+
+p {
+    position: absolute;
+    font-size: 22px;
+    font-family: Helvetica, sans-serif;
+    left: 38px;
+    top: -11px;
+}
+
+.dotteds {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    right: 9px;
+    top: 10px;
+}
+
+main img {
+    position: relative;
+    left: 150px;
+    width: 250px;
+    height: 250px;
+}
+
+main img:hover {
+    content: url();
+}
+
+h1 {
+    font-size: 100px;
+    font-family: Helvetica, sans-serif; 
+    position: relative;
+    left: 130px;
+    bottom: 100px;
+}
+
+main a {
+    position: relative;
+    left: 230px;
+    bottom: 118px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-family: Helvetica, sans-serif; 
+    color: white;
+    background-color: black;
+    padding: 10px 38px 10px 38px;
+    font-size: 20px;
+}
+
+main a:hover {
+    background-color: grey;
+}
