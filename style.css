@@ -1,9 +1,14 @@
+header {
+    position: fixed;
+}
+
 .apple p{
     position: absolute;
     font-size: 22px;
     font-family: Helvetica, sans-serif;
     width: 500px;
     height: 23px;
+    top: 6px;
     left: 25px;
 }
 
@@ -27,12 +32,13 @@ body {
     position: absolute;
     width: 1100px;
     height: 20px;
-    float: right;
+    float: left;
     pading: 20px;
 }
 
 .iCloud img {
     display: flex;
+    top: 50px;
     justify-content: center;
     position: relative;
     width: 250px;
@@ -77,8 +83,8 @@ main a:hover {
     font-family: Helvetica, sans-serif;
     font-size: 20px;
     text-align: center;
-    left: 250px;
-    opacity: 0.8;
+    left: 220px;
+    opacity: 0.9;
     width: 1070px;
     height: 100px;
 }
