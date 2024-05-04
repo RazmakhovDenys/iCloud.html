@@ -41,9 +41,6 @@ body {
     padding: -50px;
 }
 
-main img:hover {
-    content: url();
-}
 
 h1 {
     position: absolute;
