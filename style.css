@@ -33,7 +33,7 @@ body {
     position: absolute;
     width: 200px;
     height: 20px;
-    float: right;
+    right: 100px;
 }
 
 .iCloud img {
