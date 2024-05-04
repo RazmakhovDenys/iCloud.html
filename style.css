@@ -31,9 +31,9 @@ body {
 .dotteds {
     display: flex;
     position: absolute;
-    width: 800px;
+    width: 200px;
     height: 20px;
-    right: 510;
+    right: 200;
     float: right;
 }
 
