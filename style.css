@@ -19,6 +19,8 @@ p {
 .iCloud {
     display: flex;
     justify-content: center;
+    width: 270px;
+    height: 500px;
 }
 .dotteds {
     display: flex;
