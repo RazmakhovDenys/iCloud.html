@@ -81,12 +81,13 @@ main a:hover {
 }
 
 .first {
+    position: relative;
     font-family: Helvetica, sans-serif;
     box-shadow: 2px 2px 23px 5px rgb(216, 202, 202);
     padding: 30px;
     border-radius: 12px;
     padding: 30px;
-    margin: 100px 25px 0px 50px;
+    right: 50px
 }
 
 .first p {
@@ -104,12 +105,13 @@ h3 {
 }
 
 .second {
+    position: relative;
     font-family: Helvetica, sans-serif;
     box-shadow: 2px 2px 23px 5px rgb(216, 202, 202);
     margin-left: 600px;
     border-radius: 12px;
     padding: 30px;
-    margin: 100px 0px 0px 25px;
+    left: 100px;
 }
 
 .second img {
