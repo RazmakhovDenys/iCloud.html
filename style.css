@@ -87,6 +87,7 @@ main a:hover {
     padding: 30px;
     border-radius: 12px;
     padding: 30px;
+    top: 100px;
     right: 50px
 }
 
@@ -105,12 +106,13 @@ h3 {
 }
 
 .second {
-    position: relative;
+    position: absolute;
     font-family: Helvetica, sans-serif;
     box-shadow: 2px 2px 23px 5px rgb(216, 202, 202);
     margin-left: 600px;
     border-radius: 12px;
     padding: 30px;
+    bottom: 50px; 
     left: 100px;
 }
 
