@@ -15,9 +15,14 @@ p {
     left: 38px;
 }
 
+.iCloud {
+    display: flex;
+    justify-content: center;
+}
 .dotteds {
-    left: 1350px;
+    display: flex;
     position: absolute;
+    justify-content: flex-end;
     width: 20px;
     height: 20px;
 }
@@ -56,6 +61,8 @@ main a {
     padding: 10px 38px 10px 38px;
     font-size: 20px;
 }
+
+
 
 main a:hover {
     background-color: grey;
