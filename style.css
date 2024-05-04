@@ -2,9 +2,14 @@
     position: absolute;
     font-size: 22px;
     font-family: Helvetica, sans-serif;
-    width: 23px;
+    width: 500px;
     height: 23px;
     padding: 5px;
+}
+
+.apple img {
+    height: 23px;
+    width: 23px;
 }
 
 body {
@@ -73,6 +78,6 @@ main a:hover {
     text-align: center;
     justify-content: center;
     opacity: 0.8;
-    width: 1170px;
+    width: 1070px;
     height: 100px;
 }
