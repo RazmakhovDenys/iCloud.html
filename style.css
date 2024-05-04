@@ -71,7 +71,6 @@ main a:hover {
 }
 
 .files {
-    position: absolute;
     font-family: Helvetica, sans-serif;
     font-size: 20px;
     text-align: center;
@@ -106,11 +105,9 @@ h3 {
 .second {
     font-family: Helvetica, sans-serif;
     box-shadow: 2px 2px 23px 5px rgb(216, 202, 202);
-    left: 600px;
-    top: 25px;
+    margin-left: 600px;
     border-radius: 12px;
     padding: 30px;
-    bottom: 0px;
 }
 
 .second img {
