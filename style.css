@@ -9,7 +9,7 @@ header {
     width: 500px;
     height: 23px;
     left: 28px;
-    top: -5px;
+    top: -11px;
 }
 
 .apple img {
@@ -33,7 +33,7 @@ body {
     position: absolute;
     width: 1100px;
     height: 20px;
-    right: 1100;
+    right: 510;
     float: right;
 }
 
