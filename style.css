@@ -83,3 +83,50 @@ main a:hover {
     width: 1070px;
     height: 100px;
 }
+
+.first {
+    position: absolute;
+    font-family: Helvetica, sans-serif;
+    box-shadow: 2px 2px 23px 5px rgb(216, 202, 202);
+    padding: 30px;
+    border-radius: 12px;
+    margin: 25px;
+}
+
+.first p {
+    font-size: 20px;
+}
+
+h3 {
+    opacity: 0.9;
+    font-size: 27px;
+}
+
+.first img {
+    width: 450px;
+    height: 200px;
+}
+
+.second img {
+    width: 400px;
+    height: px;
+}
+
+.second {
+    position: absolute;
+    font-family: Helvetica, sans-serif;
+    box-shadow: 2px 2px 23px 5px rgb(216, 202, 202);
+    left: 600px;
+    top: 25px;
+    border-radius: 12px;
+    padding: 30px;
+}
+
+h4 {
+    opacity: 0.9;
+    font-size: 25px;
+}
+
+.second p {
+    font-size: 20px;
+}
