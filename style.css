@@ -1,10 +1,10 @@
-.apple {
+.apple p{
     position: absolute;
     font-size: 22px;
     font-family: Helvetica, sans-serif;
     width: 500px;
     height: 23px;
-    padding: 5px;
+    padding-left: 25px;
 }
 
 .apple img {
@@ -77,7 +77,7 @@ main a:hover {
     font-family: Helvetica, sans-serif;
     font-size: 20px;
     text-align: center;
-    left: 500px;
+    left: 400px;
     opacity: 0.8;
     width: 1070px;
     height: 100px;
