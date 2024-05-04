@@ -13,6 +13,7 @@ header {
 }
 
 .apple img {
+    position: absolute;
     height: 23px;
     width: 23px;
 }
@@ -33,7 +34,6 @@ body {
     width: 1100px;
     height: 20px;
     float: left;
-    pading: 20px;
 }
 
 .iCloud img {
@@ -52,6 +52,7 @@ main img:hover {
 }
 
 h1 {
+    position: absolute;
     font-size: 100px;
     font-family: Helvetica, sans-serif; 
     position: absolute;
@@ -83,7 +84,7 @@ main a:hover {
     font-family: Helvetica, sans-serif;
     font-size: 20px;
     text-align: center;
-    left: 220px;
+    left: 200px;
     opacity: 0.9;
     width: 1070px;
     height: 100px;
