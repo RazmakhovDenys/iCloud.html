@@ -87,7 +87,7 @@ main a:hover {
     padding: 30px;
     border-radius: 12px;
     padding: 30px;
-    bottom: 5px;
+    top: 500px;
     right: 50px
 }
 
@@ -112,7 +112,7 @@ h3 {
     margin-left: 600px;
     border-radius: 12px;
     padding: 30px;
-    bottom: -10px; 
+    top: 500px; 
     left: 100px;
 }
 
