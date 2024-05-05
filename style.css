@@ -87,7 +87,7 @@ main a:hover {
     padding: 30px;
     border-radius: 12px;
     padding: 30px;
-    top: 100px;
+    top: 700px;
     right: 50px
 }
 
@@ -112,6 +112,7 @@ h3 {
     margin-left: 600px;
     border-radius: 12px;
     padding: 30px;
+    margin-top: 30px;
     top: 500px; 
     left: 100px;
 }
@@ -129,7 +130,4 @@ h4 {
     font-size: 20px;
 }
 
-.mainpart2 {
-    height: 250px;
-    width: 1200px;
-}
+
