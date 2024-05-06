@@ -113,7 +113,7 @@ h3 {
     font-family: Helvetica, sans-serif;
     box-shadow: 2px 2px 23px 5px rgb(216, 202, 202);
     left: 600px;
-    top: 25px;
+    top: 200px;
     border-radius: 12px;
     padding: 30px;
 }
@@ -138,6 +138,7 @@ footer  {
 
 footer a {
     position: absolute;
+    bottom: 900px;
     text-decoration: none;
     color: grey;
     padding-bottom: 55px;
@@ -163,5 +164,5 @@ footer p {
     text-decoration: none;
     color: grey;
     margin: 10px;
-    right: 10px;
+    text-align: left;
 }
