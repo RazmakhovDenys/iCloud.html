@@ -85,7 +85,7 @@ main a:hover {
     box-shadow: 2px 2px 23px 5px rgb(216, 202, 202);
     padding: 30px;
     border-radius: 12px;
-    padding-top: 15px;
+    margin-top: 15px;
 }
 
 .first p {
@@ -107,6 +107,7 @@ h3 {
     font-family: Helvetica, sans-serif;
     box-shadow: 2px 2px 23px 5px rgb(216, 202, 202);
     border-radius: 12px;
+    left: 50px;
 }
 
 .second img {
