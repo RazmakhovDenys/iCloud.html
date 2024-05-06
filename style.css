@@ -46,8 +46,7 @@ h1 {
     position: absolute;
     font-size: 100px;
     font-family: Helvetica, sans-serif; 
-    position: absolute;
-    left: 470px;
+    left: 500px;
     bottom: 100px;
 }
 
@@ -71,6 +70,7 @@ main a:hover {
 }
 
 .files {
+    position: absolute;
     font-family: Helvetica, sans-serif;
     font-size: 20px;
     text-align: center;
@@ -86,7 +86,8 @@ main a:hover {
     box-shadow: 2px 2px 23px 5px rgb(216, 202, 202);
     padding: 30px;
     border-radius: 12px;
-    margin: 25px;
+    margin-top: 150px;
+    margin-left: 10px;
 }
 
 .first p {
@@ -112,9 +113,9 @@ h3 {
     position: absolute;
     font-family: Helvetica, sans-serif;
     box-shadow: 2px 2px 23px 5px rgb(216, 202, 202);
-    left: 600px;
-    bottom: 5px;
+    left: 700px;
     border-radius: 12px;
+    margin-top: 150px;
     padding: 30px;
 }
 
@@ -128,19 +129,19 @@ h4 {
 }
  
 footer  {
-    display: flex;
-    background-color: rgb(229, 218, 218);
-    font-size: 13px;
     position: absolute;
-    float: bottom;
+    display: flex;
+    background-color: rgb(226, 208, 208);
+    font-size: 13px;
+    top: 1700px;
     padding: 30px 1000px 30px 500px;
 }
 
 footer a {
     position: absolute;
-    bottom: 900px;
     text-decoration: none;
-    color: grey;
+    top: 20px;
+    color: gray;
     padding-bottom: 55px;
 }
 
@@ -161,8 +162,13 @@ footer a {
 
 footer p {
     position: absolute;
+    left: 900px;
     text-decoration: none;
     color: grey;
-    margin: 10px;
-    text-align: left;
+    bottom: 15px;
+}
+
+.mainpart2 {
+    margin-top: 120px;
+    margin-left: 120px;
 }
