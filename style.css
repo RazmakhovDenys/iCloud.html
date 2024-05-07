@@ -19,6 +19,14 @@ header {
     width: 23px;
 }
 
+.dottets {
+    position: absolute;
+    top: 3px;
+    width: 23px;
+    height: 23px;
+    left: 1320px;
+}
+
 body {
     display: flex;
 }
