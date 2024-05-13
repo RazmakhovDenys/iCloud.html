@@ -21,10 +21,9 @@ header {
 
 .dottets {
     position: absolute;
-    top: 3px;
     width: 23px;
     height: 23px;
-    left: 1320px;
+    right: 10px;
 }
 
 body {
